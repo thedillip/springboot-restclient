@@ -1,0 +1,6 @@
+course:
+  service:
+    baseurl: https://dillipapi.onrender.com/course-service
+    
+razorpay:
+  baseurl: https://ifsc.razorpay.com
